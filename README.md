@@ -8,6 +8,7 @@
   4. [ Test. ](#test)
   5. [ Questions. ](#questions)
   6. [ The other stuff: License & Badges. ](#license)
+  7. [ Screenshots. ](#screenshot)
   
   
   <a name="application"></a>
@@ -45,5 +46,10 @@
   ## Licenses & Badges
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
   ..
+  
+  <a name="screenshot"></a>
+  ## Screenshots
+  ![Capture](https://user-images.githubusercontent.com/73205731/116439366-76779b00-a81d-11eb-9d53-b623d12f2a80.PNG)
+  ![Capture2](https://user-images.githubusercontent.com/73205731/116439369-77103180-a81d-11eb-84ee-80adc09b83fa.PNG)
   
   
